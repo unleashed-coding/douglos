@@ -3,7 +3,7 @@
 <p align="center"><img src="https://media.giphy.com/media/iOrVCoxLSwHDoER43b/giphy.gif" height="128" width="128"></p>
 <p align="center"><img src="https://img.shields.io/badge/douglos-1.0-brightgreen.svg"></p>
 
-<p align="center">All images have a 10% chance of being replace by DOGLOS MAKONHA _\|/_</p>
+<h4 align="center">All images have a 10% chance of being replace by DOGLOS MAKONHA _\|/_</h4>
 
 <img src="https://i.imgur.com/tiomAm9.jpg">
 
