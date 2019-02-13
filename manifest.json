@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+  "name": "Douglos",
+  "version": "1.0",
+
+  "description": "mokonha",
+
+  "icons": {
+    "48": "icons/mokonha.png"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["*://*/*"],
+      "js": ["douglos.js"]
+    }
+  ]
+
+}
