@@ -10,7 +10,7 @@ All images have a 10% chance of being replace by **DOGLOS MAKONHA \_\\|/_**
 
 ## Installation
 
-Download the latest release at the [project's github page](https://github.com/unleashed-coding/douglos/releases). 
+[Download the latest release at the project's github page](https://github.com/unleashed-coding/douglos/releases/latest). 
 
 ### Firefox
 
@@ -18,3 +18,9 @@ Download the latest release at the [project's github page](https://github.com/un
 - Drag and drop the `.xpi` add-on file to the page
 - Click `Add`
 
+### Chrome
+
+- Go to `chrome://extensions/`
+- Check the `Developer Mode` box at the top of the bage
+- Drag and drop the `.crx` add-on file to the page
+- Click `Add Extension`
