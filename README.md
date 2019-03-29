@@ -5,7 +5,7 @@
 
 <h4 align="center">All images have a 10% chance of being replace by DOGLOS MAKONHA _\|/_</h4>
 
-<img src="https://i.imgur.com/tiomAm9.jpg">
+<p align="center"><img src="https://i.imgur.com/tiomAm9.jpg" width="600px" height="600px"></p>
 
 ## Installation
 
