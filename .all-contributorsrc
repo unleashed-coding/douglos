@@ -1,0 +1,34 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "sqdorte",
+      "name": "calypso",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/38764914?v=4",
+      "profile": "https://twitter.com/sqdorte",
+      "contributions": [
+        "test",
+        "code"
+      ]
+    },
+    {
+      "login": "appositum",
+      "name": "eddie",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/21044944?v=4",
+      "profile": "https://github.com/appositum",
+      "contributions": [
+        "design",
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "douglos",
+  "projectOwner": "unleashed-coding",
+  "repoType": "github",
+  "repoHost": "https://github.com"
+}
